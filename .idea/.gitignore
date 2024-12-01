@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Android Studio/IntelliJ
+*.iml
+.gradle/
+.idea/
+build/
+captures/
+.externalNativeBuild/
+
+# SDK ve yapılandırma
+local.properties
+
+# İşletim Sistemi Dosyaları
+*.DS_Store
+*.log
+*.swp

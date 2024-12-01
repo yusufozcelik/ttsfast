@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fast TTS</string>
+    <string-array name="languages">
+        <item>Varsayılan</item>
+        <item>Türkçe (tr)</item>
+        <item>İngilizce (en)</item>
+        <item>Almanca (de)</item>
+        <item>Fransızca (fr)</item>
+        <item>İspanyolca (es)</item>
+        <item>İtalyanca (it)</item>
+        <item>Portekizce (pt)</item>
+        <item>Rusça (ru)</item>
+        <item>Çince (zh)</item>
+        <item>Arapça (ar)</item>
+    </string-array>
+</resources>
